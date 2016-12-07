@@ -6,8 +6,6 @@ description: "Ideas are cheap, execution is hard."
 categories: coaching
 ---
 
-# Ideas are cheap
-
 I once told an animator that _ideas are cheap_. He was offended as he thought I said his ideas weren't good. At the time, he was working with a "difficult" group of designers who didn't like input on anything from anyone who was not on their team.  So maybe he was sensitive. 
 
 I was coaching him on the fact that anyone can create ideas easily. It's the execution of the idea that is hard. Ever seen a product or service and though to yourself "that was my idea"? We've all had a bunch of those. 
