@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "comparing your backstage with thier onstage"
-date:   2016-12-5 21:04:00
+title:  "backstage vs. onstage"
+date:   2016-12-7 21:04:00
 description: "No lifehacks or protips, just work."
 categories: coaching
 ---
