@@ -18,7 +18,9 @@ Here's the checklist I gave him:
 2. Think of as many ways as you can for why each idea might fail. 
 3. Then for the ideas without fail states, make a note for how long the idea will take to implement. 
 
-[The Dip](https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666) is a good, brief book on evaluating the amount of work required to execute something, and ultimately if it's worth it at all. 
+This strategy seemed to have helped him. He was better able to work with that team. To a certain extent. But thier diffculty is another story, for another day.
+
+By the way, [The Dip](https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666) is a good, brief book on evaluating the amount of work required to execute something, and ultimately if it's worth it at all. 
 
 ![The Dip](https://images-na.ssl-images-amazon.com/images/I/711KLBqCiJL.jpg)
 
