@@ -4,7 +4,7 @@
 
 .header-intro {
     font-size: 18px;
-    color: #aaa;
+    color: #7C85A5;
 }
 .header-intro a, .header-intro a:visited {
     color: #aaa;
@@ -12,6 +12,16 @@
 .header-intro a:hover {
     color: $brand-color;
     text-decoration: none;
+}
+
+.header-intro-cta {
+    color: #071648;
+    font-size: 16px;
+    padding-left: 1em;
+}
+.header-intro-cta a{
+    color: #F39245;
+    text-decoration: underline;
 }
 
 .header-container {
@@ -160,6 +170,10 @@ nav.site-nav {
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+}
+
+.footer a:hover {
+    color: $brand-color;
 }
 
 .contact-list,
