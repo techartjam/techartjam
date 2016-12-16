@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is [Fabio Basile](http://fffabs.com/)'s little online notebook. I like to design apps, websites and games for people like you, and I use this space to occasionally talk about them. I am a self-taught digital designer and occasional speaker.
+Hi, I'm Chad. 
 
- I hold a combined Bachelor's Degree in software engineering and video game development from [Lancaster University](http://www.lancaster.ac.uk) and the [University of Central Lancashire](http://www.uclan.ac.uk).
+I'm a Senior Technical Project Manager at [Mad*Pow](http://www.madpow.com) and co-founder of [Rigging Dojo](http://riggingdojo.com). I've been working with creative and technical people for 20 years. Someone once said that _I work best by helping people do their best work_.
 
-I also run [Brotherhood](http://brotherhood.io), with my business and design partner [Jamie](http://www.syke.co). I spend most of my time between the UK, Italy and Japan. I am an advocate of remote work.
+My work has always included helping individuals and teams work across silos. I'm using this blog to write about my own personal growth and aspire to help others grow. 
+
+Please say [hello](mailto:chad@techartjam.com) if you want to chat. 
 
 <a class="twitter-follow-button"
   href="https://twitter.com/techartjam"
@@ -19,4 +21,6 @@ Follow @techartjam
 
 ----
 <h2>About the site</h2>
-This site was made on an [Apple rMBP](http://www.apple.com/uk/) using [Sublime Text 3](http://sublimetext.com/) and [Sketch](http://sketch-app.com/). It's powered by [jekyllrb.com](http://bohemiancoding.com/sketch/). The text is set in [FaktPro](https://www.fontshop.com/families/fakt).
+This site was made on an [Early 2013 MacBook Pro](http://www.apple.com/) using [Sublime Text 3](http://sublimetext.com/), and [Brackets](http://brackets.io). It's powered by [Jekyll](jekyllrb.com) and [gitHub](http://github.com/). The text is set in [FaktPro](https://www.fontshop.com/families/fakt).
+
+The site's original design by [Fabio Basile](https://dribbble.com/fffabs). Source on [gitHub](https://github.com/fffabs/estivo).
