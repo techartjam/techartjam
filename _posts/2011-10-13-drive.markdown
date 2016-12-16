@@ -4,7 +4,6 @@ title: "The three things we need at work"
 date: 2011-10-13 21:07:00.000Z
 description: "drive"
 categories: work
-
 ---
 
 <p>Dan Pink's book <a href="http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805">Drive</a> is great. I do believe there are three key factors to creating a productive and profitable workplace.   </p>

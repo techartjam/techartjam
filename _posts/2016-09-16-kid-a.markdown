@@ -1,0 +1,72 @@
+---
+layout: post
+title: Kid A, Owls, and perfect pens.
+date: 2016-09-16 16:13:33.821Z
+description: "constrain yourself, and stop shaving yaks" 
+categories: 
+---
+
+I've been thinking a lot about change, and building habits. Seems like the single thing that stops me from doing the work is fear. I wrote about searching for the [perfect pen](http://blog.chadgmoore.com/perfect-pen/) a couple of times [recently](http://blog.chadgmoore.com/uncomfortable/). 
+
+I tweeted about it and my friend Alex replied:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/chad_g_moore">@chad_g_moore</a> perfectly describes the ppl we work best with. Those who don’t get bogged down by pen selection process but instead just write</p>&mdash; Alex Schwartz (@gtjuggler) <a href="https://twitter.com/gtjuggler/status/762705389368389632">August 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Alex is the CEO / Chief Scientist / Janitor at [Owlchemy Labs](http://owlchemylabs.com/). He works in the VR space. There's a ton of potential for VR. It's here, now. And it's going to be everywhere, soon. It'll help entertain and educate us. But this isn't about Virtual Reality. 
+
+I bring up VR as that field is changing way ahead of the curve, even for tech fields. Since it's changing so fast and there (arguably) aren't really standards yet. _In VR, there aren't even pens yet, let alone perfect ones_. 
+
+**Staying comfortable:**  
+If you're learning to draw, you can hide in the fear and not do the work by saying things like "If I only had that perfect pencil". You can acquire paralysis by analysis when wanting to learn digital painting by thinking "is that new iPad and it's Pencil a perfect tool for digital painting, or should I go buy a mac/pc and photoshop"? Which camera is best? Which table saw? Etc.
+
+You can't even have a conversation with yourself like that when you are in a young field such as VR. You have to live in the world of the uncomfortable to work in that space.
+
+A lot of what I've been reading lately is saying the same thing about any kind of work. 
+
+**Make yourself uncomfortable.**
+
+* Turn off the digital devices so you don't rely on Social Media, and [little white numbers in little red circles](http://blog.chadgmoore.com/drafts/).  
+* Find a space that is isolated from your friends and family, where you alone can think and do the work.  
+* Tell people what you are doing so you have a social commitment. 
+
+I have been lost in that search for the perfect pen for so long. How many hours I have spent tinkering with blog themes vs. writing my thoughts out? Taking an online course because it's interesting and just abandoning it about 3 weeks in because I'm bored or scared of the commitment.
+
+These are just the recent ones I can remember off the top of my head:
+
+* Abelton Live
+* javaScript
+* Human Computer Interaction
+* Python
+* Comp Sci 101
+* Writing Fiction
+* Habit change
+
+I do have a lot of interests, but I know when I sign up for these things that I wont complete them. Fear of commitment? I don't know. All I know is that when I do write like this, exercise and meditate regularly I feel great. 
+
+I don't believe in a "calling". I don't believe you should do a job that you're "[passionate](https://www.fastcompany.com/3026272/leadership-now/the-secrets-to-career-contentment-dont-follow-your-passion)" about. I do believe that if you want to be good at something you need to practice. 
+
+Reading all the books, watching all the videos, taking all the online courses doesn't equal doing the work. This is what I'm learning. Here's another example.
+
+I bring all this up to eventually talk about Radiohead. Particularly their _Kid A_ album. Whether or not you like the band or that album in particular this is a really interesting story.
+
+So, Radiohead had a huge hit with their record _OK Computer_. It was so successful that they could probably just phone in their next album and it would be nearly as successful.
+
+But the problems were: 
+
+* The members of Radiohead suffered burnout and songwriter Thom Yorke suffered a mental breakdown.
+* Drummer Phil Selway said Radiohead worried that the success of OK Computer had "turned us into a one-trick band."
+* Bassist Colin Greenwood said: "We felt we had to change everything. There were other guitar bands out there trying to do similar things. We had to move on."
+
+All the above from [wikipedia](https://en.wikipedia.org/wiki/Kid_A). 
+
+The band had no restrictions of deadlines. No constraints to make them uncomfortable due to their commercial success of _OK Computer_. Writers block, lack of direction all contributed to their lull. The band almost broke up. 
+
+Then, their producer [Nigel Godrich](https://en.wikipedia.org/wiki/Nigel_Godrich) may have saved them:
+
+>In January 2000, at Godrich's suggestion, Radiohead split into two groups: without using acoustic instruments such as guitars or drums, one group would generate a sound or sequence and the other would develop it. Though the experiment produced no finished songs, it helped convince the band of the new direction.
+
+Now there are some great constraints. Split the team, do not use the tools you are used to. Just create the ideas, do not edit them. Just edit the ideas, do not create them. This is how they made themselves uncomfortable and constrained themselves. This is how they delivered such an interesting sound, and reinvented themselves.  
+
+**Old dog, new tricks:**  
+My takeaway is as such: Repeatedly living in the the space just outside your abilities and comfort is the perfect pen. 
