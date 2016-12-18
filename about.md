@@ -8,7 +8,7 @@ Hi, I'm Chad.
 
 I'm a Senior Technical Project Manager at [Mad*Pow](http://www.madpow.com) and co-founder of [Rigging Dojo](http://riggingdojo.com). I've been working with creative and technical people for 20 years. Someone once said that _I work best by helping people do their best work_.
 
-My work has always included helping individuals and teams work across silos. I'm using this blog to write about my own personal growth and aspire to help others grow. 
+My work has always included helping individuals and teams work across silos. I'm good at helping creative people understand technology, and technologists understand creativity.   
 
 Please say [hello](mailto:chad@techartjam.com) if you want to chat. 
 
