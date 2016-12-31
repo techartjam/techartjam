@@ -4,7 +4,7 @@
 
 .header-intro {
     font-size: 18px;
-    color: #aaa;
+    color: #7C85A5;
 }
 .header-intro a, .header-intro a:visited {
     color: #aaa;
@@ -12,6 +12,21 @@
 .header-intro a:hover {
     color: $brand-color;
     text-decoration: none;
+}
+
+.header-intro-cta {
+    color: #7C85A5;
+    font-size: 14px;
+    padding-left: 0em;
+}
+.header-intro-cta a{
+    color: #F39245;
+//    text-decoration: none;
+}
+
+.header-intro-cta a:hover{
+    color: #B84480;
+    text-decoration: underline;
 }
 
 .header-container {
@@ -95,7 +110,7 @@
     padding: 1em 0;
     display: block;
     font-weight: 600;
-    left: 60px;
+    left: 90px;
 
     &,
     &:visited, &:hover {
@@ -107,6 +122,10 @@
 a .site-title {
     color: #5badf0;
     color: #5694f1;
+}
+
+.call-to-action{
+    color: #F39245;    
 }
 
 .page-link {
@@ -160,6 +179,10 @@ nav.site-nav {
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+}
+
+.footer a:hover {
+    color: $brand-color;
 }
 
 .contact-list,
